@@ -1,0 +1,23 @@
+# Dados de entrada e produtos gerados
+01_bases/*
+!01_bases/.gitkeep
+02_outputs/*
+!02_outputs/.gitkeep
+
+# Backups locais do notebook
+*.backup_*.ipynb
+*.pre_*.ipynb
+
+# Jupyter e Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Sistemas e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

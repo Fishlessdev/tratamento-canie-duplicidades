@@ -1,0 +1,7 @@
+jupyter
+numpy
+pandas
+openpyxl
+geopandas
+shapely
+pyogrio
